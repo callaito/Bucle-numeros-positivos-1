@@ -1,0 +1,14 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle numeros positivos\bin\Debug\net6.0\Bucle numeros positivos.exe
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle numeros positivos\bin\Debug\net6.0\Bucle numeros positivos.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle numeros positivos\bin\Debug\net6.0\Bucle numeros positivos.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle numeros positivos\bin\Debug\net6.0\Bucle numeros positivos.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle numeros positivos\bin\Debug\net6.0\Bucle numeros positivos.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle numeros positivos\obj\Debug\net6.0\Bucle numeros positivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle numeros positivos\obj\Debug\net6.0\Bucle numeros positivos.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle numeros positivos\obj\Debug\net6.0\Bucle numeros positivos.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle numeros positivos\obj\Debug\net6.0\Bucle numeros positivos.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle numeros positivos\obj\Debug\net6.0\Bucle numeros positivos.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle numeros positivos\obj\Debug\net6.0\refint\Bucle numeros positivos.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle numeros positivos\obj\Debug\net6.0\Bucle numeros positivos.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle numeros positivos\obj\Debug\net6.0\Bucle numeros positivos.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle numeros positivos\obj\Debug\net6.0\ref\Bucle numeros positivos.dll
